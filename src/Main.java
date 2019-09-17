@@ -15,6 +15,12 @@ public class Main {
 
         Test Code 2
         */
+        //input
+        //first=41,second=67
+        //forventet output
+        //Second
+        //Factual Output
+        //Second
         int first = 41;
         int second = 67;
 
@@ -26,6 +32,12 @@ public class Main {
         else
             System.out.println("FAIL");
 
+        //Input
+        //first=67,second=41
+        //Forventet output
+        //First
+        //Factual Output
+        //First
         first = 67;
         second = 41;
         output = ValueGreaterThan(first,second);
