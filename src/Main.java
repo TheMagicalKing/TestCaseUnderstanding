@@ -17,7 +17,7 @@ public class Main {
         */
         //input
         //first=41,second=67
-        //forventet output
+        //Forventet output
         //Second
         //Factual Output
         //Second
@@ -46,6 +46,12 @@ public class Main {
         else
             System.out.println(output + " FAIL");
 
+        //input
+        //first=400,second=250,third=100
+        //Forventet output
+        //First
+        //Factual output
+        //First
         first=400;
         second=250;
         int third=100;
@@ -55,6 +61,13 @@ public class Main {
         else
             System.out.println(output + " FAIL");
 
+        //input
+        //first=12, second=30, Third=45
+        //forventet output
+        //Third
+        //factual output
+        //Third
+
         first = 12;
         second = 30;
         third = 45;
@@ -63,6 +76,13 @@ public class Main {
             System.out.println(output + " PASS");
         else
             System.out.println(output + " FAIL");
+
+        //input
+        //first=31, second=42, third=30
+        //forventet output
+        //Second
+        //factual output
+        //Second
 
         first = 34;
         second = 42;
